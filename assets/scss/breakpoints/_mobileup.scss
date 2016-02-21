@@ -183,7 +183,7 @@ HEADER STYLING
 	background-image: url('../img/touring.jpg');
 	background-size: cover;
 	background-position: center center;
-	color: white;
+	color: $header-text-color;
 	padding: 0;
 	height: 3em;
 
@@ -203,9 +203,18 @@ HEADER STYLING
 		//text-transform: uppercase;
 
 		a {
-			color: white;
+			color: $header-text-color;
 			text-decoration: none;
 		}
+	}
+	h2 {
+		margin: 0;
+		font-family: $sans-serif;
+		font-weight: 800;
+	}
+	nav {
+		font-family: $sans-serif;
+		font-weight: 300;
 	}
 }
 
