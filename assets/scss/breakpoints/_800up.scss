@@ -88,13 +88,13 @@ HEADER STYLING
 				border: none;
 
 				a {
-					color: white;
-					font-size: .9em;
+					color: $primary-color;
+					font-size: 1.2em;
 					text-decoration: none;
 					padding: 0 .25em;
 
 					&:hover {
-						color: darken(white, 20%);
+						color: darken($primary-color, 20%);
 					}
 				}
 
