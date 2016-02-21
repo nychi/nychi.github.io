@@ -4,10 +4,15 @@
          <h3 class="collapse"><BR /><BR />{{ site.description }}</h3>
          <nav class="nav-collapse">
              <ul class="noList">
-                 {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
-                 <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-                     <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+                 <li class="element">
+                     <a href="{{ site.baseurl }}/">Home</a>
                  </li>
+                 {% for p in site.pages %}
+                 {% if p.layout == "page" %}
+                 <li class="element">
+                     <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+                 </li>
+                 {% endif %}
                  {% endfor %}
              </ul>
          </nav>
