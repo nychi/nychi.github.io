@@ -179,19 +179,21 @@ HEADER STYLING
 ***************/
 
 .header {
+/*
 	background-color: $background-color;
 	background-image: url('../img/touring.jpg');
 	background-size: cover;
 	background-position: center center;
+*/
 	color: $header-text-color;
 	padding: 0;
 	height: 3em;
-
+/*
 	.container {
 		padding: 0;
 		@include container(100%);
 	}
-
+*/
 	h1 {
 		margin: 0;
 		float: left;
