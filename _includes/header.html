@@ -9,9 +9,11 @@
                  </li>
                  {% for p in site.pages %}
                  {% if p.layout == "page" %}
+                 {% if p.title != "Thank You" %}
                  <li class="element">
                      <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
                  </li>
+                 {% endif %}
                  {% endif %}
                  {% endfor %}
              </ul>
