@@ -34,4 +34,4 @@ Hackathon continues<br/>
 - Shift 2: 12:30pm-1:30pm
 
 **2:30pm-3:30pm** closing ceremony and prizes<br/>
-**3:30pm** busses depart<br/>
+**3:30pm** buses depart<br/>

@@ -5,7 +5,7 @@ title: FAQ
 
 # FAQ
 
-**WHAT IS NY&chi;?**
+**What is NY&chi;?**
 
 Rensselaer Polytechnic Institute’s inaugural women in tech summit, NY&chi;, will take place April 16 - 17th starting at 9:00am. We hope this event will bring together women in CS throughout the Capital District Region while also engaging them intellectually with the conference and a hackathon. You don’t need to be veteran hacker to participate! Any woman interested in programming, hackathons, or networking is highly encouraged to attend.
 
@@ -33,6 +33,10 @@ Every hacker is different: some love to hack through the night while others pref
 
 Valid Student ID to verify registration, Government Issued ID, a laptop/charger, Pillow & Blanket, and Toiletries. For everything else, we got you covered!
 
+**What if I don't have a laptop?**
+
+We may be able to acquire a limited number of laptops for hackers to borrow throughout.  Please email us to find out.
+
 **What if I have a question not covered by the FAQ?**
 
-Email us! We would be more than happy to find the answers that you are looking for.
+Email us at <acmw@union.rpi.edu>! We would be more than happy to find the answers that you are looking for.
