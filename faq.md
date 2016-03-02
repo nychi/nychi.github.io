@@ -11,11 +11,15 @@ Rensselaer Polytechnic Institute’s inaugural women in tech summit, NY&chi;, wi
 
 **Can I attend?**
 
-Do you identify as a female? Do you attend school in the Capital Region? Do you love (or are interested in) tech? If you answered yes then you are more than welcome to attend! Women of all skill levels are encouraged to attend!
+Do you identify as a woman (cis or trans) or genderqueer? Do you attend school in the Capital Region? Do you love (or are interested in) tech? If you answered yes then you are more than welcome to attend! All skill levels are encouraged to attend!
 
 **What’s the cost of attendance?**
 
 Nothing! Admission is free and includes food, drinks, overnight hosting and tons of swag thanks to the generosity of our sponsors: NCWIT (Sponsored by Google.org) and RedHat.
+
+**Is transportation provided?**
+
+We will be offering transportation to the area universities.  Right now we will be providing stops at Union, Skidmore, UAlbany, Siena, St. Rose, and Sage.  As the event draws closer, we will be updating the site with more information as well as emailing participants about transportation.  
 
 **What’s there to eat?**
 
