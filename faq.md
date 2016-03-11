@@ -14,6 +14,7 @@ Rensselaer Polytechnic Institute’s inaugural women in tech summit, NY&chi;, wi
 Do you identify as a woman (cis or trans) or genderqueer? Do you attend school in the Capital Region? Do you love (or are interested in) tech? If you answered yes then you are more than welcome to attend! All skill levels are encouraged to attend!
 
 **What if I'm a male ally?**
+
 Male allies play a critical role in our campaign to create a more diverse technical industry, and we are happy to have you as part of our team! You are welcome to volunteer during the event, lead a talk, or help us organize. While we value having male voices in the discussion, we would like to create a unique space where attendees who are directly confronted with the issues are the focus. We hope you will join us in leading!   
 
 
