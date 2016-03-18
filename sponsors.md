@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sponsors and Partners
+title: Sponsors
 ---
 
 # Sponsored By:
