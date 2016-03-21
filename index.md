@@ -14,4 +14,6 @@ The goal of this hackathon is to provide a safe environment for our attendees to
 - **When:** April 16&ndash;17, 2016
 - **Where:** Low Center for Industrial Innovation (CII), Rensselaer Polytechnic Institute, Troy, NY.
 
+We're now partnerned with [Major League Hacking](mlh.io)!  All participants (both hackers and volunteers), need to abide by MLH's [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf).  
+
 <a id="mlh-trust-badge" style="position:fixed;top:0;right:50px;max-width:100px;width:10%;min-width: 60px;display:block;z-index:10000" href="https://mlh.io/seasons/s2016/events?utm_source=s2016&utm_medium=TrustBadge&utm_campaign=s2016" target="_blank"><img src="https://s3.amazonaws.com/logged-assets/trust-badge/s2016.png" alt="MLH Official - Spring 2016" style="width:100%;" ></a>
