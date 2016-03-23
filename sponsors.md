@@ -20,5 +20,3 @@ title: Sponsors
 ### Partners:
 
 <img src="/img/mlh-logo.png" alt="Major League Hacking" height="150"/>
-
-

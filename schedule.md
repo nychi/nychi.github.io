@@ -26,7 +26,7 @@ title: Schedule
 #### Sunday April 17, 2016
 
 Hackathon continues<br/>
-**7:30am** Breakfast<br/> 
+**7:30am** Breakfast<br/>
 **11:30am** submit final projects<br/>
 **11:30am-2pm** Lunch / Demo (In Shifts)<br/>
 
