@@ -26,6 +26,10 @@ Nothing! Admission is free and includes food, drinks, overnight hosting and tons
 
 We will be offering transportation between RPI and the area universities.  Right now we will be providing stops at Union, Skidmore, UAlbany, Siena, St. Rose, and Sage.  As the event draws closer, we will be updating the site with more information as well as emailing participants about transportation.  
 
+**What if I am from outside of the Capital Region?**
+
+We'd still love to have you attend, but unfortunately we are unable to provide transportation for you to get here.  If you are able to provide your own transportation, please register!
+
 **What’s there to eat?**
 
 Food will be provided for all meals throughout the duration of the event starting with breakfast on Saturday morning. If you have dietary restrictions please inform us in your registration and we will do our very best to accommodate them.
