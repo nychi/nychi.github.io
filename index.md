@@ -14,4 +14,4 @@ The goal of this hackathon is to provide a safe environment for our attendees to
 - **When:** April 16&ndash;17, 2016
 - **Where:** Low Center for Industrial Innovation (CII), Rensselaer Polytechnic Institute, Troy, NY.
 
-We're now partnerned with [Major League Hacking](mlh.io)!  All participants (both hackers and volunteers), need to abide by MLH's [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+We're now partnered with [Major League Hacking](mlh.io)!  All participants (both hackers and volunteers), need to abide by MLH's [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf).
