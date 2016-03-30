@@ -16,6 +16,7 @@ title: Sponsors
 ### Bronze Sponsors:
 
 <img src="/img/ParivedaSolutions.png" alt="Pariveda Solutions" height="150"/>
+<img src="/img/bloomberg.svg" alt="Bloomberg" height="150"/>
 
 ### Partners:
 
