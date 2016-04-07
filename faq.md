@@ -24,6 +24,8 @@ Nothing! Admission is free and includes food, drinks, overnight hosting and tons
 
 **Is transportation provided?**
 
+Update 4/6/16: If you did not register before April 6th and you attend a Capital Region school, we may be unable to provide you transportation. Please email us at <acmw@union.rpi.edu>. We have finalized transportation at this point, so check with us to see if we are able to provide transportation for you.
+
 We will be offering transportation between RPI and the area universities.  Right now we will be providing stops at Union, Skidmore, UAlbany, Siena, St. Rose, and Sage.  As the event draws closer, we will be updating the site with more information as well as emailing participants about transportation.  
 
 **What if I am from outside of the Capital Region?**

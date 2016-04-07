@@ -15,3 +15,5 @@ The goal of this hackathon is to provide a safe environment for our attendees to
 - **Where:** Low Center for Industrial Innovation (CII), Rensselaer Polytechnic Institute, Troy, NY.
 
 We're now partnered with [Major League Hacking](mlh.io)!  All participants (both hackers and volunteers), need to abide by MLH's [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+
+Update 4/6/16: If you did not register before April 6th and you attend a Capital Region school, we may be unable to provide you with transportation to the hackathon. Please email us at <acmw@union.rpi.edu>. We have finalized transportation at this point, so check with us to see if we are able to provide transportation for you.
