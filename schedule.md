@@ -16,8 +16,9 @@ title: Schedule
 **1pm-2pm** Student Opportunity Lab<br/>
 **2pm-3pm** Workshops <br/>
 **3pm-3:25pm** Snack Break &amp;&amp; Find your team for hackathon<br/>
-**3:30pm-4:20pm** Community Panel Discussion <br/>
-**4:30pm-5:25pm** Workshops <br/>
+**3:30pm-4:25pm** Workshops <br/>
+**3:30pm-5:30pm** [Hack Your Hoodie](http://bit.ly/hack_hoodie) <br/>
+**4:30pm-5:30pm** Community Panel Discussion <br/>
 **5:30pm** Hackathon officially starts<br/>
 **5:30pm-6:30pm** Dinner <br/>
 **11:00pm** Late Night Activity <br/>
